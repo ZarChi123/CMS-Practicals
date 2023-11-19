@@ -1,19 +1,22 @@
-#Content Management System Practical Week 1 Content Explanation & Learning Journey
---------------------------
+Content Management System Practical Week 1 Content Explanation & Learning Journey
+---------------------------------------------------------------------------------
 Name:Zar Chi Oo
 
 
 ##Student ID:14211290
+
+
 ##Description
 
-#Website Content Explanation
+Website Content Explanation
 -----------------------------
-##Identifying S.M.A.R.T Goals and Business Overview
+Identifying S.M.A.R.T Goals and Business Overview
 Description
 
 
 
-## Learning Journey - Week 1
+Learning Journey - Week 1
+-------------------------
 
 ### Learning Activities & Resources
 
