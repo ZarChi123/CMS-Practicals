@@ -1,17 +1,12 @@
-Content Management System Practical Week 1 Content Explanation & Learning Journey
+# Content Management System Practical Week 1 Content Explanation & Learning Journey
 
-Name:Zar Chi Oo
+**Name:** Zar Chi Oo
 
+**Student ID:** 14211290
 
-Student ID:14211290
+The aim of this website is to provide a concise understanding of my startup business - coconut skincare, outlining its S.M.A.R.T goals. Additionally, it serves as a platform to document the learning journey for each week, encompassing learning activities, resources, estimated hours, content insights, and reflections on career, employability, and learning experiences. This documentation is essential for tracking my learning journey, ensuring continuous improvement, and aligning with our development goals while building this project.
 
-
-The aim of this website is to provide a concise understanding of my  startup business-coconut skincare , outlining its S.M.A.R.T goals. Additionally, it serves as a platform to document the learning journey for each week, encompassing learning activities, resources, estimated hours, content insights, and reflections on career, employability, and learning experiences.The need for this is to document my  learning journey and continuous improvement as well accountability,refine strategies and esure aligment with our development goals while building this project.
-
-
-
-
-Website Content Explanation
+## Website Content Explanation
 
 ### S.M.A.R.T Goals and Business Overview
 
@@ -48,26 +43,21 @@ The skincare e-commerce website aims to:
 
 These S.M.A.R.T goals focus on the specific, measurable, achievable, relevant, and time-bound aspects of website development and business growth, while the business overview outlines the broader objectives and strategies for the skincare e-commerce venture.
 
+## Learning Journey - Week 1
 
+### Learning Activities & Resources
 
-Learning Journey - Week 1
-
-
-# Learning Activities & Resources
-
-
-
-## Project Overview
+#### Project Overview
 
 I have always been passionate about skincare and envisioned creating a skincare e-commerce website to showcase the products I love. To initiate this project, I explored various themes for inspiration and translated my vision into a tangible concept through detailed sketches using Figma.
 
-## Development Process
+#### Development Process
 
 The journey from concept to reality involved a gradual transition into coding. Leveraging online resources, I found valuable guidance from [YouTube tutorials](https://m.youtube.com/watch?v=G3e-cpL7ofc&pp=ygUbaHRtbCB0dXRvcmlhbCBmb3IgYmVnaW5uZXJz), providing practical insights into web development. Additionally, I referred to the comprehensive tutorials on the [w3schools website](https://www.w3schools.com/html/default.asp) for a deeper understanding of HTML and CSS.
 
 Moreover, the lecture notes from [James Cook University's Web Design and Development subject](https://learn.jcu.edu.au/ultra/courses/_168839_1/outline) served as a valuable reference, offering academic perspectives to complement my practical learning.
 
-## Resources
+#### Resources
 
 - [YouTube Tutorial: Web Development](https://m.youtube.com/watch?v=G3e-cpL7ofc&pp=ygUbaHRtbCB0dXRvcmlhbCBmb3IgYmVnaW5uZXJz)
 - [w3schools: HTML and CSS Tutorials](https://www.w3schools.com/html/default.asp)
@@ -75,20 +65,17 @@ Moreover, the lecture notes from [James Cook University's Web Design and Develop
 
 This combination of self-exploration, online tutorials, and academic resources has been instrumental in shaping the initial stages of my skincare e-commerce website.
 
-
-
-
 ### Estimated Hours and Project Progress
 
-### Day 1: HTML Template and CSS Theme
+#### Day 1: HTML Template and CSS Theme
 
 The first day primarily focused on translating my Figma sketch into a structured HTML template and deciding on the CSS theme for my skincare e-commerce website. While this phase allowed me to lay the foundation for the project, I encountered challenges in managing my time effectively, especially during error resolution.
 
-### Day 2: Error Resolution and Time Management
+#### Day 2: Error Resolution and Time Management
 
 The subsequent day was dedicated to addressing the errors encountered during the HTML and CSS implementation. Managing time efficiently became crucial in ensuring the completion of the practical. Despite the initial difficulties, I successfully navigated through the challenges and completed the project on time.
 
-##  Content Insights
+### Content Insights
 
 - **Time Management:** The experience highlighted the importance of effective time management, especially in the context of error resolution and troubleshooting.
 - **Problem-Solving:** Overcoming challenges during the coding process provided valuable insights into effective problem-solving in web development.
@@ -111,26 +98,10 @@ My skincare e-commerce website is envisioned as a platform that not only showcas
 
 In essence, the content insights focus on creating a skincare e-commerce platform that not only showcases products but also reflects a genuine passion for skincare, emphasizing user engagement and a seamless online shopping experience.
 
-
-
 ### Career/Employability/Learning Insights
 
 Embarking on the journey of building this skincare e-commerce website has been a revelation in my ongoing pursuit of full-stack development. While I am still in the learning phase, this project has provided valuable insights into my passion for web design.
 
 1. **Interest in Full Stack Development:** Throughout the development process, I've realized my keen interest in full-stack development. Although there are aspects, particularly backend processes, that I am yet to explore fully, I am enthusiastic about delving deeper into the complete spectrum of web development.
 
-2. **Passion for Web Design:** Building this website has unveiled my true passion for web design. The process of translating a Figma sketch into a functional and aesthetically pleasing digital interface has been immensely gratifying. It has ignited my interest in UI/UX design, emphasizing the importance of creating visually appealing and user-friendly experiences.
-
-3. **Continuous Learning:** Acknowledging that I am still in the learning phase has been a driving force. The challenges faced, particularly in fixing errors and managing time during the development, have been invaluable lessons. This realization motivates me to consistently enhance my skills and knowledge in web development.
-
-4. **UI/UX Design and Interactive Animation:** Through the course of this project, I've acquired hands-on experience in UI/UX design principles. The integration of interactive animations using HTML, CSS, and JavaScript has not only enhanced the visual appeal of the website but also deepened my understanding of creating dynamic and engaging user interfaces.
-
-The journey of building this skincare e-commerce website has not only provided technical insights but has also clarified my career aspirations. The intersection of full-stack development, web design, and continuous learning is where I find my passion and envision my future growth.
-  
-
-
-
-
-
-
-
+2. **Passion for Web Design:** Building this website has unveiled my true passion for web design. The process of translating a Figma
