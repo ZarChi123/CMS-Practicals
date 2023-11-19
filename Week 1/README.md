@@ -1,5 +1,5 @@
 Content Management System Practical Week 1 Content Explanation & Learning Journey
----------------------------------------------------------------------------------
+
 Name:Zar Chi Oo
 
 
@@ -12,14 +12,14 @@ The aim of this website is to provide a concise understanding of my  startup bus
 
 
 Website Content Explanation
------------------------------
-Identifying S.M.A.R.T Goals and Business Overview
+
+##Identifying S.M.A.R.T Goals and Business Overview
 Description
 
 
 
 Learning Journey - Week 1
--------------------------
+
 
 ### Learning Activities & Resources
 
