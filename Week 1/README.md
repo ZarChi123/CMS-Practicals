@@ -14,7 +14,7 @@ The aim of this website is to provide a concise understanding of my  startup bus
 Website Content Explanation
 
 
-###Identifying S.M.A.R.T Goals and Business Overview
+Identifying S.M.A.R.T Goals and Business Overview
 
 
 Description
@@ -24,9 +24,9 @@ Description
 Learning Journey - Week 1
 
 
-### Learning Activities & Resources
+# Learning Activities & Resources
 
-# Skincare E-commerce Website Project
+
 
 ## Project Overview
 
@@ -49,9 +49,25 @@ This combination of self-exploration, online tutorials, and academic resources h
 
 
 
-### Estimated Hours
+### Estimated Hours and Project Progress
 
--
+### Day 1: HTML Template and CSS Theme
+
+The first day primarily focused on translating my Figma sketch into a structured HTML template and deciding on the CSS theme for my skincare e-commerce website. While this phase allowed me to lay the foundation for the project, I encountered challenges in managing my time effectively, especially during error resolution.
+
+### Day 2: Error Resolution and Time Management
+
+The subsequent day was dedicated to addressing the errors encountered during the HTML and CSS implementation. Managing time efficiently became crucial in ensuring the completion of the practical. Despite the initial difficulties, I successfully navigated through the challenges and completed the project on time.
+
+## Insights
+
+- **Time Management:** The experience highlighted the importance of effective time management, especially in the context of error resolution and troubleshooting.
+- **Problem-Solving:** Overcoming challenges during the coding process provided valuable insights into effective problem-solving in web development.
+
+This reflective overview captures the learning journey of Week 1, emphasizing not just the completion of tasks but the skills and insights gained along the way.
+
+
+
 ### Content Insights
 
 - Developed a solid understanding of semantic HTML and its impact on SEO.
