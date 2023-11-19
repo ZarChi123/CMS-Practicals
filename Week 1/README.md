@@ -59,18 +59,29 @@ The first day primarily focused on translating my Figma sketch into a structured
 
 The subsequent day was dedicated to addressing the errors encountered during the HTML and CSS implementation. Managing time efficiently became crucial in ensuring the completion of the practical. Despite the initial difficulties, I successfully navigated through the challenges and completed the project on time.
 
-## Insights
+##  Content Insights
 
 - **Time Management:** The experience highlighted the importance of effective time management, especially in the context of error resolution and troubleshooting.
 - **Problem-Solving:** Overcoming challenges during the coding process provided valuable insights into effective problem-solving in web development.
 
 This reflective overview captures the learning journey of Week 1, emphasizing not just the completion of tasks but the skills and insights gained along the way.
 
-
-
 ### Content Insights
 
-- Developed a solid understanding of semantic HTML and its impact on SEO.
+My skincare e-commerce website is envisioned as a platform that not only showcases my passion for skincare but also serves as a curated space for individuals seeking quality products. The goal is to create a seamless and engaging online shopping experience that reflects my dedication to skincare.
+
+1. **Product Showcase:** The website is designed to feature a carefully curated selection of skincare products that I personally love. Each product is highlighted with detailed information, emphasizing the quality and benefits.
+
+2. **Passion-Driven Design:** The color scheme, layout, and overall design are meticulously chosen to convey my passion for skincare. The use of visuals and aesthetics aims to create an inviting atmosphere, encouraging visitors to explore and connect with the products.
+
+3. **Figma Sketch Implementation:** The initial sketch created in Figma serves as the guiding blueprint for the website. This implementation ensures that the digital representation aligns with the envisioned design, maintaining consistency with the original concept.
+
+4. **User Engagement:** Recognizing the importance of user engagement, the website is crafted to facilitate easy navigation and interaction. Features such as clear product categorization and a user-friendly interface contribute to a positive browsing experience.
+
+5. **Integration of Academic and Practical Learning:** Drawing from resources like YouTube tutorials, w3schools, and JCU's Web Design and Development subject, the website blends academic principles with practical application. This integration enriches the project with both theoretical knowledge and hands-on skills.
+
+In essence, the content insights focus on creating a skincare e-commerce platform that not only showcases products but also reflects a genuine passion for skincare, emphasizing user engagement and a seamless online shopping experience.
+
 
 
 ### Career/Employability/Learning Insights
