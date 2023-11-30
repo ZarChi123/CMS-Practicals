@@ -63,6 +63,19 @@ This project aims to create a skincare website that not only addresses the uniqu
 
 ## Learning Journey for Week 2
 
+For Week 2's assignment, I chose to create a tour website, building upon the experience from Week 1. However, the focus shifted to cater to an older audience, adopting a blog-like format with detailed articles rather than a modern website layout.
+
+## Development Approach
+
+To meet the requirements of the assignment, Joomla was chosen as the Content Management System (CMS). The learning process involved:
+
+1. **Joomla Familiarization:** I delved into the functionalities and features of Joomla to understand how it aligns with the project's objectives.
+
+2. **LinkedIn Learning:** Leveraging LinkedIn Learning resources provided insights into the nuances of Joomla, offering practical guidance on its usage in real-world scenarios. [LinkedIn Learning Joomla Tutorial](https://www.linkedin.com/learning/joomla-4-essential-training)
+
+3. **YouTube Tutorials:** Exploring tutorials on YouTube provided additional perspectives and tips on utilizing Joomla effectively for web development. [YouTube Joomla Tutorial](https://www.youtube.com/watch?v=h5VZwTLdgdM&list=PLQSbA0rrCrqHZxODzTYgAaCp_zYI3Aiug&index=2).
+
+By combining these resources, I aimed to build a Joomla-based tour website tailored to the preferences and expectations of an older audience.
 
 
 
