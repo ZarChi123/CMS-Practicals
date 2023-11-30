@@ -77,5 +77,38 @@ To meet the requirements of the assignment, Joomla was chosen as the Content Man
 
 By combining these resources, I aimed to build a Joomla-based tour website tailored to the preferences and expectations of an older audience.
 
+# Estimated Hours
+
+Starting from the evening of 29/11/2023, I dedicated time to learning Joomla through LinkedIn and YouTube tutorials. Once I familiarized myself with Joomla's interface and tools, I initiated the website development process, as outlined earlier. The development spanned approximately one and a half days.
+
+While the duration may seem relatively long, the learning activities for Week 2 consumed a total of around two and a half days. However, given the depth and breadth of Joomla's features, I wish I had more time to explore further and enhance my website even more.
+
+# Content Insights
+
+For Week 2's project, my focus shifted to the creation of a skincare blog tailored explicitly for a mature audience, deviating from the theme of my Week 1 endeavor. This undertaking aimed to connect more effectively with older individuals by adopting a blog-like format, prioritizing detailed articles over a contemporary website design. Utilizing Joomla as the Content Management System, I invested time in comprehending its intricacies through resources on LinkedIn Learning and YouTube.
+
+This process provided valuable insights into the art of crafting content for specific demographics. The deliberate emphasis on narrative-driven, comprehensive articles was tailored to meet the preferences of an older audience seeking substantial information. It was an enlightening experience to blend technology, design, and content creation to resonate effectively with a different demographic, focusing on providing valuable information for the care of mature skin.
+
+# Choosing Joomla as the CMS Tool
+
+In selecting Joomla for my skincare blog project, I considered various factors that contribute to its suitability as a Content Management System (CMS). Here are a few reasons why Joomla stands out:
+
+1. **User-Friendly Interface:** Joomla offers an intuitive and user-friendly interface, making it accessible for individuals with varying levels of technical expertise. This is crucial for efficient content management and updates.
+
+2. **Versatility:** Joomla is highly versatile, allowing for the creation of diverse types of websites, from simple blogs to complex e-commerce platforms. Its adaptability aligns with the dynamic nature of skincare content.
+
+3. **Robust Content Management:** With Joomla, managing and organizing content is streamlined. It provides robust content management features, making it easier to categorize, tag, and present skincare-related articles and information.
+
+4. **Community Support:** Joomla boasts a strong and active community of developers and users. This support network ensures that there are ample resources, tutorials, and extensions available, contributing to a smoother development process.
+
+5. **Scalability:** As my skincare blog evolves, Joomla's scalability allows for seamless expansion. Whether I choose to add more features, pages, or interactive elements, Joomla provides a solid foundation for future growth.
+
+6. **Security Measures:** Security is a paramount concern, especially when dealing with personal care information. Joomla has a reputation for implementing robust security measures, helping to safeguard the integrity of the skincare blog.
+
+In essence, Joomla aligns with the requirements of my skincare blog project, offering a balance of user-friendly features, versatility, community support, scalability, and robust security.
+
+
+
+
 
 
