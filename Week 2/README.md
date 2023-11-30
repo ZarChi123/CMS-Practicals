@@ -6,7 +6,7 @@
 **Student ID:** 14211290
 
 Welcome to the overview of my website, developed for the second practical assignment in the Content Management System course at James Cook University Singapore.
-In Week 1, I created an initial website focused on curating skincare for teenagers and young adults, tailored primarily for younger users. You can explore the [initial website from Week 1 here](https://skincarebyzarchiiiiioo.on.drv.tw/www.coconutskincarebyzar.com/).However,this project focuses on creating a website tailored for an audience of older individuals, emphasizing user-friendliness and accessibility.
+In Week 1, I created an initial website focused on curating skincare for teenagers and young adults, tailored primarily for younger users. You can explore the [initial website from Week 1 here](https://skincarebyzarchiiiiioo.on.drv.tw/www.coconutskincarebyzar.com/). However,this project focuses on creating a website tailored for an audience of older individuals, emphasizing user-friendliness and accessibility.
 Join me as we delve into the detailed content and explore the specific S.M.A.R.T. goals guiding the development of this site using Joomla,a popular CMS tool.
 
 
@@ -60,3 +60,9 @@ To ensure relatability, articles within the website will be presented from the v
    - Conduct regular content reviews and updates every two weeks based on user feedback, facilitated by Joomla's content management capabilities.
 
 This project aims to create a skincare website that not only addresses the unique needs of older individuals but also provides an engaging and relatable online space. Join me on this journey of crafting a user-centric and accessible platform for skincare enthusiasts with the added benefits of Joomla integration.
+
+## Learning Journey for Week 2
+
+
+
+
