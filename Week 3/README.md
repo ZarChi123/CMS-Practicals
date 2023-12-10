@@ -111,16 +111,17 @@ Embarking on an exploration of WordPress's functionalities and tailoring content
 
 Diving into WordPress via LinkedIn Learning and YouTube revealed the effectiveness of self-directed learning in acquiring new skills. This encounter emphasized the importance of leveraging various learning resources and platforms to cultivate a holistic understanding of a new tool or technology. Furthermore, the intentional commitment to learning at a self-determined pace highlighted the crucial balance between efficiency and depth in skill acquisition
 
-##Group Formation
+# Group Formation
 
-To assemble a capable learning team in anticipation of the upcoming assignment (Assignment 2), I took the initiative to conduct a systematic formation process. Adopting a 'job interview style,' I conducted brief interviews with each classmate, employing targeted questions to understand their working styles, availability, diligence, and shared expectations for group collaboration. Exploring their approaches to task management, collaborative methodologies, and past experiences in group settings yielded valuable insights into their compatibility with our team. Within these discussions, four individuals emerged who demonstrated:
+In preparation for the upcoming assignment (Assignment 2), the formation of a proficient learning team was initiated through a systematic process. Utilizing a 'job interview style,' brief interviews were conducted with each classmate, incorporating targeted questions to understand their working styles, availability, diligence, and shared expectations for group collaboration. Exploring their approaches to task management, collaborative methodologies, and past experiences in group settings provided valuable insights into their compatibility with our team. The following four individuals emerged from this selection process:
 
--Myat Pwint Phyu (14318723)
--Kaung Sat Paing (14399033)
--Shin Thant Aung (14191080)
--Shwe Moe Thant (14228423)
+- Myat Pwint Phyu (14318723)
+- Kaung Sat Paing (14399033)
+- Shin Thant Aung (14191080)
+- Shwe Moe Thant (14228423)
 
-Emerged from the selection process were individuals whose attributes strongly resonated with our collective objectives. These team members not only exhibited proficiency in their working styles but also showcased a remarkable commitment to collaborative efforts. Through the interviews, I gained an understanding of their strong problem-solving skills and creativity, which I recognized as valuable assets for our assignment. Their demonstrated dedication, proactive approach to problem-solving, and clear alignment of expectations set them apart from other candidates. It became evident that their values and work ethics harmoniously aligned with our vision for the assignment. By strategically choosing these members, I envisioned a team that not only boasts diverse skills but also fosters a cohesive environment primed for successful collaboration.
+These individuals exhibited attributes strongly resonating with our collective objectives. They not only demonstrated proficiency in their working styles but also showcased a remarkable commitment to collaborative efforts. The interviews revealed their strong problem-solving skills and creativity, recognized as valuable assets for our assignment. Their dedication, proactive approach to problem-solving, and clear alignment of expectations set them apart from other candidates. It became evident that their values and work ethics harmoniously aligned with our vision for the assignment. By strategically choosing these members, the vision is to form a team that not only boasts diverse skills but also fosters a cohesive environment primed for successful collaboration.
+
 
 
 
