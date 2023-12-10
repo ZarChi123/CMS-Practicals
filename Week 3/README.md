@@ -30,18 +30,26 @@ The primary goal of this Week 2 project is to cater to the interests and needs o
 
 ## S.M.A.R.T. Goals
 
+- **Specific:**
+  - Enhance the overall well-being experience by optimizing user engagement, fostering an active community, and expanding reach to new audiences.
 
-**Specific:**
-Enhance the overall well-being experience for our audience by optimizing user engagement, fostering an active community, and expanding our reach to new audiences.
+- **Measurable:**
+  - Achieve a 20% increase in average session duration.
+  - Attain a 15% increase in pages viewed per session.
+  - Aim for a 25% rise in user-generated content within community spaces.
+  - Target a 30% growth in newsletter subscriptions.
+  - Simultaneously, aim for a 20% increase in monthly active users within the next six months.
 
-**Measurable:**
-Achieve a 20% increase in the average session duration, a 15% increase in pages viewed per session, a 25% rise in user-generated content within community spaces, and a 30% growth in newsletter subscriptions. Simultaneously, aim for a 20% increase in monthly active users within the next six months.
+- **Achievable:**
+  - Implement interactive features, engaging content updates, and user-friendly navigation to encourage longer visits and exploration.
+  - Launch community engagement campaigns, initiate discussions, and promote user-generated content.
+  - Optimize newsletter sign-up prompts, offer exclusive content, and enhance targeted marketing strategies to attract new users.
 
-**Achievable:**
-Implement interactive features, engaging content updates, and user-friendly navigation to encourage longer visits and exploration. Launch community engagement campaigns, initiate discussions, and promote user-generated content. Optimize newsletter sign-up prompts, offer exclusive content, and enhance targeted marketing strategies to attract new users.
+- **Relevant:**
+  - Fostering active engagement, building a supportive community, and reaching a wider audience align with our mission of promoting holistic wellness and a balanced lifestyle.
 
-**Relevant:**
-Fostering active engagement, building a supportive community, and reaching a wider audience align with our mission of promoting holistic wellness and a balanced lifestyle.
+- **Time-bound:**
+  - Achieve the specified increases within the next six months, regularly monitoring progress and adjusting strategies as needed.
 
-**Time-bound:**
-Achieve the specified increases within the next six months, regularly monitoring progress and adjusting strategies as needed.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
