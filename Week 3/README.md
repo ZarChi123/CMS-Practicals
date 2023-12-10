@@ -53,3 +53,9 @@ The primary goal of this Week 2 project is to cater to the interests and needs o
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+##Learning Journey for Practical 3
+
+
+
+
+
