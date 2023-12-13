@@ -80,7 +80,7 @@ To ensure relatability, articles within the website will be presented from the v
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+### Using Joomla for Study Stride  Website
 
 
 
