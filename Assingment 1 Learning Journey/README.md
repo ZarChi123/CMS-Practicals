@@ -5,9 +5,9 @@
 
 **Student ID:** 14211290
 
-###Wordpress CMS
+### Using WordPress for Healthy Eats Singapore Website
 
-For this assingment , I have decided to create a blog post that is centered around achieving healthy goals for the citizens of Singapore, with focus on young adults.The website goes beyond dining recommendations. It delves into the world of nutrition with informative articles, blog posts, and resources tailored to the Singaporean context. From discussing the benefits of local superfoods to providing practical tips for maintaining a balanced diet in the bustling urban environment, this strive to be a reliable source of health-related information.
+For this assingment , I have decided to create a blog post that is centered around achieving healthy goals for the citizens of Singapore, with focus on young adults.The website goes beyond dining recommendations. It delves into the world of nutrition with informative articles, blog posts, and resources tailored to the Singaporean context. From discussing the benefits of local superfoods to providing practical tips for maintaining a balanced diet in the bustling urban environment, this strive to be a reliable source of health-related information.Our website, accessible at [HealthyEats Singapore](https://dev-zarchiooa1.pantheonsite.io/), is your virtual companion on a journey to discover nutritious and delightful options within the vibrant culinary landscape of Singapore.
 
 ### Content Explanation
 
@@ -21,13 +21,14 @@ The core objective of the HealthyEats Singapore website is to empower individual
 
 4. **Contact and Feedback Hub:** Providing users with contact information for inquiries, collaborations, and feedback related to fitness exploration in Singapore. A user-friendly feedback form will be available to gather input and enhance the website's content and user experience.
 
+5. **Restaurant and Cafe Directory:** Featuring a curated directory of establishments across Singapore that prioritize health-conscious menu options. Each profile will showcase their commitment to fresh, local ingredients and provide users with a guide to making healthier dining choices.
 
 ### Emphasis on User-Friendly Design
 
 The website will prioritize:
 
 - **Intuitive Navigation:** The website is crafted with an intuitive and straightforward navigation structure. Users will find a clean, uncluttered layout, and logically organized menus that guide them seamlessly through the diverse content offerings. Whether searching for recipes, exploring local eateries, or reading insightful articles, our design facilitates easy exploration
-- 
+  
 - **Mobile Responsiveness:** Recognizing the prevalence of mobile users, our website boasts full mobile responsiveness. Whether on a smartphone or tablet, users can expect a consistent and visually pleasing experience, allowing them to access HealthyEats Singapore anytime, anywhere.
 
 - **Clear Categorisation:** To enhance user experience, content is meticulously categorized for easy access. From restaurant directories to wellness events, users can quickly locate the information that aligns with their interests, fostering a user-centric journey through the website.
@@ -76,4 +77,6 @@ To ensure relatability, articles within the website will be presented from the v
    - Conduct regular content reviews and updates every two weeks based on user feedback, facilitated by Wordpress's content management capabilities.
    - Launch a series of monthly health challenges, starting in the next two months, encouraging community engagement and participation.
      Each challenge will be promoted across social media channels, fostering a sense of community and creating a buzz around HealthyEats Singapore.
+
+
 
