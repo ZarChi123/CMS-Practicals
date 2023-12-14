@@ -36,6 +36,7 @@ Through the designated YouTube video  I  gain practical insights, troubleshootin
 
 By looking at the lecturer's guide and the practical demo from the youtube video, it was much easier to complete the practical and took around 2 hours to finish the complete setup.
 
+
 ### Content Insights
 
 This practical has provided me with skills to:
