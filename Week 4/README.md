@@ -13,16 +13,16 @@ Addressing and resolving common issues in XAMPP, WordPress, and PHPMyAdmin.
 
 In Week 4 of our learning journey, we tackled the practical aspects of creating a dynamic localhost website with a database. The process involved the installation of XAMPP, a crucial cross-platform application for database creation. However, this journey was not without its challenges, particularly on a MacBook with stringent security settings. Adjustments were necessary to overcome these hurdles and successfully deploy a localhost website.
 
-# Installation Challenges
+### Installation Challenges
 During the installation of XAMPP, I encountered issues on my MacBook, where security and privacy concerns initially restricted the installation of this developer tool. After resolving these issues, another obstacle surfaced: only the Apache and ProFTPD servers could run, while the MySQL database server faced complications. Investigation revealed a pre-existing MySQL server from a previous database modeling course.
 
-# Troubleshooting
+### Troubleshooting
 To address the MySQL server conflict, I used the MacBook's Activity Monitor, equivalent to Windows' Services, to terminate the conflicting server. This allowed the XAMPP MySQL server to function seamlessly, paving the way for the next steps in deploying our localhost website.
 
-# WordPress Deployment
+### WordPress Deployment
 The deployment of WordPress involved downloading and extracting a zipped package into the "wordpress" folder under "htdocs" in the "xamppfiles" directory. Following step-by-step instructions on Chrome, I successfully created and deployed the localhost website.
 
-# Database Creation
+### Database Creation
 Simultaneously, I utilized "http://localhost/phpmyadmin/" to access the PHPMyAdmin interface and create a database integral to the website. This step was crucial for the proper functioning of the localhost website.
 
 # Learning Resources
