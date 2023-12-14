@@ -80,7 +80,6 @@ To ensure relatability, articles within the website will be presented from the v
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Using Joomla for Study Stride  Website
 
 ## Using Joomla for StudyStride Website
 
@@ -113,7 +112,12 @@ StudyStride is committed to facilitating academic success through a range of fea
 
 ### User-Centric Approach
 
-StudyStride adopts a user-centric approach to ensure a relatable and effective learning experience.
+-**StudyStride:** adopts a user-centric approach to ensure a relatable and effective learning experience.
+Intuitive Navigation: Navigating through educational content should be seamless. StudyStride's intuitive navigation ensures that users can find what they need with ease. A clean and logical layout, along with logically organized menus, guides users through a diverse array of content offerings.
+
+-**Mobile Responsiveness:** Recognizing the prevalence of mobile users, StudyStride ensures full mobile responsiveness. Whether on a smartphone or tablet, users can expect a consistent and visually pleasing experience, allowing them to access StudyStride anytime, anywhere.
+
+-**Clear Categorization:** Content is meticulously categorized for easy access. Whether users are searching for specific topics, courses, or resources, our clear categorization ensures a user-friendly experience.
 
 ## S.M.A.R.T. Goals
 
