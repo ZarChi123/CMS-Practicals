@@ -43,7 +43,7 @@ Advanced WordPress features, offering a deeper insight into website customizatio
 Practical troubleshooting skills for efficiently managing and resolving common issues.
 Efficient management of WordPress components for optimal website performance.
 
-###Career/Employability/Learning Insights
+### Career/Employability/Learning Insights
 
 Completion of Week 4 offers me the practical skills in setting up, configuring, and troubleshooting web servers.
 A streamlined understanding of deploying websites from local to live servers.
