@@ -39,7 +39,6 @@ By looking at the lecturer's guide and the practical demo from the youtube video
 ### Content Insights
 
 This practical has provided me with skills to:
-
 Advanced WordPress features, offering a deeper insight into website customization.
 Practical troubleshooting skills for efficiently managing and resolving common issues.
 Efficient management of WordPress components for optimal website performance.
