@@ -7,8 +7,9 @@
 This week's learning journey delves into the experimenting of the wordpress themes and exploration of it from the developer's Point of view through VS code implementation 
 as well as experimenting with style elements in the stylesheet
 
-### Learning Journey for Week 4
-## Customizations
+## Learning Journey for Week 4
+
+## Learning Activities & Resources
 
 1. **Background Color Enhancement**
    - Changed the body background color from white to a vibrant purple to create a visually striking backdrop.
@@ -54,7 +55,8 @@ Consistent, lively link colors were strategically employed as markers to ensure 
 The introduction of a soft, light gray background subtly enhanced the entire experience without overshadowing the content.
 These changes align with my dedication to crafting an enticing platform that reflects careful consideration and user-centric design.
 
-###Learning Resources
 
 ### Career/Employability/Learning Insights
+
+Throughout the journey of refining my website's style, I've made adjustments to the CSS following tutorials on w3schools. While my current career trajectory may not heavily emphasize front-end or back-end development intricacies, the exposure to these concepts has significantly expanded my comprehension of website design. Despite these aspects not being my primary focus, the hands-on experience of changing and testing my own website has been the primary source of my learning. This practical engagement has not only enriched my skill set but also contributed to a more comprehensive understanding of the website deployment process.
 
