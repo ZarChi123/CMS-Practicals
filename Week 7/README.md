@@ -4,41 +4,27 @@
 
 **Student ID:** 14211290
 
-This week's learning journey delves into various aspects including learning activities & resources, estimated hours, content insights and career/employability/learning insights.
+Throughout this week, our team embarked on the reconstruction of our university's open house website using a localhost WordPress environment. Learning activities for the week involved the configuration of PHP with XAMPP and the initiation of preliminary modifications to the WordPress theme using Visual Studio Code (VS Code). 
 
 
 ## Learning Activities & Resources
-In Week 6, we're transitioning to practical aspects, forming our group for Assignment 2 Project. Recognizing the need for seamless communication and project management, we've adopted these essential tools.
-The project management tools we used are as follows:
+In Week 7, We actively utilized various resources, including online tutorials, insights from the WordPress documentation, and engaged in collaborative discussions within the team to bolster our understanding.
+The practical goals for this week encompassed achieving a successful setup of the PHP environment with XAMPP, ensuring seamless integration with WordPress, and making initial strides in customizing the theme via VS Code. The team aimed to establish a solid foundation for subsequent development phases, laying the groundwork for dynamic content creation and enhanced user interaction.
 
 1. [Github Repo](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6)
-
-2. [Trello](https://trello.com/b/K4nnWSkQ/team-6)
-
-3. [Slack](https://join.slack.com/t/namethegroup/shared_invite/zt-29hsfnftw-c_owSNMwG86oE4wNrx7dtQ)
 
 
 ## Estimated Hours
 
-Our team conducted a series of four meetings to complete the practical task, with each meeting lasting approximately 30 minutes. In total, I invested approximately 2 hours in the entire process, which includes time spent on installing and configuring project management tools. Here's an overview of our meeting sessions:
-
-### First Meeting's Summary - Business Objective and Ideation Session:
-In our initial meeting, the team initiated the project by introducing themselves and discussing assigned roles based on the strengths and weaknesses. The main emphasis was on delineating the core business objective. Through a collaborative brainstorming session, we explored various ideas, and the subsequent SWOT analysis and affinity mapping exercise helped structure these concepts. By the conclusion of the meeting, the team had gained a more comprehensive understanding of the business goal, along with a nuanced awareness of the challenges and opportunities inherent in the project.
-
-### Second Meeting's Summary - Content Strategy and Website Structure:
-In the subsequent meeting, we delved into the content strategy and framework for the DIY Hub. The team successfully pinpointed and confirmed content categories, ensuring their alignment with user needs. A dedicated workshop extended the ideation session, adding depth to features, content, and interactive elements. We further refined user personas, conducted empathy mapping, and solidified the business objective based on the valuable insights gathered. Collaboratively, we sketched the preliminary website structure, laying the groundwork for an immersive user experience.
-
-### Third Meeting's Summary - Monetization Strategies and Business Model:
-On the third day, our focus shifted to monetization strategies, with the team exploring diverse approaches to sustain the DIY Hub. Engaging workshops delved into crafting value propositions for advertisers and refining the overall business model to align financial goals with the user experience. The day concluded with a robust comprehension of how the platform would generate revenue while remaining steadfast in its mission.
-
-### Fourth Meeting's Summary - Technology Stack and Development Workflow:
-In the fourth meeting, attention was directed towards the technical facets of the DIY Hub. The team engaged in workshops to ascertain the optimal technology stack, selecting tools and platforms that resonate with project objectives. Discussions revolving around collaborative coding workflows and delineating roles within the development team were pivotal in ensuring a seamless development process. As the day concluded, the team had established a clear blueprint for the technological foundation of the DIY Hub.
-
-Our daily standup meetings are recorded [here](https://miro.com/app/board/uXjVMxzXENA=/.)
+Around 10 hours were devoted to the initial stages of the project, emphasizing the setup of PHP, modifications to the theme, and strategizing for the integration of dynamic content.
 
 ### Content Insights
-Utilizing Trello, Slack, and GitHub Repository has streamlined our collaboration and project efficiency. Trello's boards aid in visual project planning, Slack ensures efficient communication, and GitHub Repository serves as a pivotal hub for version control, managing code changes seamlessly. This integrated toolset enhances our workflow, fostering transparency and accountability within the team, leading to effective communication and project milestone achievement with increased agility.
+This week's advancements revolved around a meticulous approach to refining the code for the home page (index.php), placing a strong emphasis on crafting a unified and captivating layout. Key sections, including the introduction, events schedule, highlights, and contact information, were strategically incorporated to ensure a cohesive and engaging user experience.
 
-### Career/Employability/Learning Insights
-Working with these tools allows us to gain hands-on experience in industry-standard platforms, demonstrating our proficiency with essential tools used in modern workplaces.Engaging with version control systems on GitHub showcases our understanding of collaborative coding workflows, a skill highly sought after in professional software development environments. Moreover, familiarity with these tools contributes to our adaptability and agility, traits highly valued in dynamic work settings.These experiences become key talking points on our resumes and in interviews, signaling to potential employers our practical skills and readiness to contribute effectively to team-based projects. 
+A significant highlight was the decision to utilize WordPress functionalities for event display and dynamic contact information. This strategic choice not only optimizes the website's efficiency but also lays the groundwork for future updates, ensuring ongoing relevance and providing valuable cues for improved SEO to search engine algorithms. The deliberate use of HTML tags reflects our commitment to optimizing the website's performance in the ever-evolving digital landscape.
+
+Throughout this learning journey, these insights highlight the significance of not just coding proficiency but also strategic thinking in the realm of website development. Recognizing the impact of content organization, dynamic elements, and semantic structure proves crucial in creating a website that not only boasts visual appeal but also operates seamlessly, effectively fulfilling its intended objectives.
+
+## Career/Employability/Learning Insights
+The progress made in developing the home page (index.php) this week highlights valuable insights for careers and employability. Technical proficiency in PHP, WordPress, and Visual Studio Code is showcased, along with strong problem-solving skills demonstrated through strategic decision-making. Collaborative discussions emphasize effective communication and teamwork, while the thoughtful approach to leveraging WordPress functionalities reflects strategic thinking. Adaptability and continuous learning are evident through engagement with online resources. The recognition of SEO principles and content optimization demonstrates awareness of broader digital marketing concepts. Project management skills are showcased by allocating dedicated hours to different project phases, and an understanding of user experience (UX) design principles is reflected in the focus on creating a cohesive layout. Collectively, these skills enhance individual and team employability in web development and digital marketing.
 
