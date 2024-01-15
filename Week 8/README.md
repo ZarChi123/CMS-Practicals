@@ -6,6 +6,19 @@
 
 Throughout this week, our team is actively engaged in the development of a website dedicated to the James Cook University open house, a pivotal component of our group projects. Our primary emphasis is on delineating a meticulous workflow, underscoring its pivotal role in the successful deployment of web projects. The significance of a well-defined workflow in the creation of a website spans across multiple dimensions, encompassing efficiency, collaborative efforts, quality assurance, consistency, client satisfaction, adaptability, time and cost management, documentation, scalability, and security.
 
+# Group Details
+ 
+Our group name is Team 6. There are four members in our team who are as follows:
+1. [Myat Pwint Phyu (14318723)](https://www.linkedin.com/in/myat-pwint-phyu-67b587284/)
+2. [Kaung Sat Paing (14399033)](https://www.linkedin.com/in/kaung-sat-paing-2b02b825b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+3. [Zar Chi Oo (14211290)](https://www.linkedin.com/in/zarchioo/)
+4. [Shwe Moe Thant (14228423)](https://www.linkedin.com/in/shwe-moe-thant-454473223/)
+
+
+As a team, we set [our code of conduct](https://docs.google.com/document/d/1kDKkVeRaLh9u8EgRC4VUBGRNnzZF26KD7whVBtHkiJ8/edit?usp=sharing) for our team.
+We also try to do [daily meetings](https://miro.com/welcomeonboard/OU00RWc1eENZeWJUbnd0aktVVmlBeVhWZERtcWIwVUo2azM3Y3R4ekZEZjVNbnpsUHRjZE1POUUzQTdnS25xYnwzNDU4NzY0NTQxOTQyODkzMzQwfDI=?share_link_id=231631393104), which is inspired from SCRUM process.
+ 
+
 ## Learning Activities & Resources
 
 Before embarking on the development of our Open House website as a team, we conducted a Collaborative Coding Workflow Simulation to ensure seamless coordination, clear roles, and effective communication within the development team. The simulation aimed to mirror the actual coding environment, identifying potential challenges and streamlining our collaborative efforts.We are a team of 5 and all of our learning experiment are recorded below:
