@@ -36,6 +36,16 @@ to create a website as team:
 1. [GitHub Repository](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6)
 2. [Trello](https://trello.com/b/K4nnWSkQ/team-6)
 3. [Slack](https://join.slack.com/t/namethegroup/shared_invite/zt-29hsfnftw-c_owSNMwG86oE4wNrx7dtQ)
+
+Our team selected GitHub and its workflow for the James Cook University open house website due to its unparalleled collaboration features, efficiency in code management, real-time updates fostering transparency, skill development opportunities aligned with industry standards, and user-friendly tools like branching, commits, pull requests, issues, and documentation, ensuring a streamlined and effective development process.
+
+To make the most of our chosen workflow, team members are encouraged to follow these steps:
+
+1. Branching: Create a new branch for each feature or task.
+2. Commits: Make concise, descriptive commits for better tracking.
+3. Pull Requests: Use pull requests for code reviews and discussion.
+4. Issues: Report and discuss bugs or propose new features through GitHub issues.
+5. Documentation: Keep project documentation updated on the repository for clarity.
  
 
 ## Learning Activities & Resources
@@ -91,12 +101,14 @@ I posit that incorporating visual aids in note-taking improves information reten
 
 
 ## Estimated Hours
-
+ It took approximately more than 3.5 weeks to fully complete our project and get the finished open house website.
 
 
 ### Content Insights
 
 
-## Career/Employability/Learning Insights
+
+
+##Learning Insights/Career/Employability
 
 
