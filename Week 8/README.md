@@ -10,7 +10,7 @@ Throughout this week, our team is actively engaged in the development of a websi
 
 Before embarking on the development of our Open House website as a team, we conducted a Collaborative Coding Workflow Simulation to ensure seamless coordination, clear roles, and effective communication within the development team. The simulation aimed to mirror the actual coding environment, identifying potential challenges and streamlining our collaborative efforts.We are a team of 5 and all of our learning experiment are recorded below:
 
-# Procedure:
+### Procedure:
 
 1. Role Assignments: Team members were assigned specific roles, such as frontend developer, backend developer, and project manager, to mimic real-world scenarios.
 2. Version Control Exercise: A practical exercise using version control systems (Git and GitHub) was conducted, emphasizing branching, merging, and conflict resolution.
